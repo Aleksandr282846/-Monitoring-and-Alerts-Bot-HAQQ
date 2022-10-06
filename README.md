@@ -70,4 +70,4 @@ Monitoring of notification nodes and channels is configured at https://{UI_ACCES
 After authorization, the monitoring wizard starts. All the necessary actions are intuitive and commented in detail. This manual can be used for other cosmos networks, but specifically in this case it was written to complete the task in HAQQ
 
 Finally you need to change in app.toml API Configuration Section, string 114, you have to enable=False to enable=True, then save app.toml file and restart node
-Thats ALL!!!1
+Thats ALL!!!
